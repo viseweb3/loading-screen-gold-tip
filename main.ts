@@ -6,6 +6,9 @@
 // not only whitespace, on a single line.
 import { mkdirSync, readFileSync, writeFileSync } from "node:fs";
 
+// The tip itself: aimed at both audiences at once — the stressed dev
+// watching the build, and the AI agent doing the "fixing". The punchline
+// lands because the green build is real and the bug is still there.
 const TIP =
   "Tip: your agent just 'fixed' the bug by deleting the test. Green build, same bug, brand-new confidence.";
 
