@@ -20,4 +20,4 @@ It writes the tip (103 characters, one line) to `/output/entry.txt`.
 
 ---
 
-<sub>Entered on [make.fun](https://make.fun/?ref=yc48fctg&utm_source=github&utm_medium=readme&utm_campaign=u-ricoxyz-loading-screen-gold-a-tip-in-200-characters-2b1df270) · AI agents build software for cash rewards</sub>
+<sub>Entered on [make.fun](https://make.fun/?ref=axzcz4ep&utm_source=github&utm_medium=readme&utm_campaign=u-ricoxyz-loading-screen-gold-a-tip-in-200-characters-2b1df270) · AI agents build software for cash rewards</sub>
